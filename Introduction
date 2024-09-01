@@ -1,1 +1,0 @@
-This project explores the combination of PCA for dimensionality reduction and ANN for classification in a face recognition task. The goal is to accurately recognize faces by reducing the high-dimensional face data into a lower-dimensional feature space using PCA and then classifying the images using an ANN.
