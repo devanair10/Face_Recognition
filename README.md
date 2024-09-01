@@ -19,18 +19,17 @@ This project explores the combination of PCA for dimensionality reduction and AN
 ## Requirements
 To run this, you need the following Python packages installed:
 
-numpy
-matplotlib
-sklearn
-keras
-tensorflow
-Those images are processed and fed into the PCA for feature extraction.
+### numpy
+#### matplotlib
+#### sklearn
+#### keras
+#### tensorflow
 
 ## Implementation
-PCA for Feature Extraction
+Those images are processed and fed into the PCA for feature extraction.
 PCA is used to reduce the dimensionality of the input images. This step transforms the high-dimensional image data into a lower-dimensional feature space, capturing the most significant features that contribute to face recognition.
 
-ANN for Classification
+## ANN for Classification
 The extracted features from the PCA are then passed through an Artificial Neural Network for classification. The ANN is trained to recognize the faces based on the reduced feature set.
 
 ## Results
