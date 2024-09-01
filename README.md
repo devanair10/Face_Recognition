@@ -14,7 +14,7 @@ This project explores the combination of PCA for dimensionality reduction and AN
 ## Requirements
 To run this, you need the following Python packages installed:
 
-### numpy
+#### numpy
 #### matplotlib
 #### sklearn
 #### keras
