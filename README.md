@@ -27,4 +27,4 @@ To run this, you need the following Python packages installed:
 ##### This provides detailed outputs showing the PCA-reduced images, the training process of the ANN, and the final classification results. The model's accuracy and performance metrics are also discussed.
 
 ## Conclusion
-This project demonstrates the effectiveness of combining PCA and ANN for face recognition tasks. PCA efficiently reduces the data dimensionality, while the ANN performs robust classification based on the extracted features.
+This project demonstrates the effectiveness of combining PCA and ANN for face recognition tasks. PCA efficiently reduces the data dimensionality, while the ANN performs robust classification based on the extracted features  .
