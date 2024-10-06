@@ -1,6 +1,6 @@
 # Face Recognition Using PCA and ANN
 
-This project is an implementation of a face recognition system using Principal Component Analysis (PCA) and Artificial Neural Networks (ANN). This contains the complete code and step-by-step explanation of the process, focusing on face recognition using images of People.
+This project is an implementation of a face recognition  system using Principal Component Analysis (PCA) and Artificial Neural Networks (ANN). This contains the complete code and step-by-step explanation of the process, focusing on face recognition using images of People.
 
 ## Table of Contents
 ### Introduction
